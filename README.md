@@ -6,6 +6,8 @@ The EVQuant assay is developed to detect individual fluorescently-labeled vesicl
 Installation Guide
 
 EVQuant is a plugin for FIJI (Fiji Is Just ImageJ) the latest version of FIJI can be found at https://fiji.sc and runs on all common platforms.
+
 To install the EVQuant Plugin download the EVQuant.jar file from this repository open Fiji and install the plugin using the menus Plugin -> Install Plugin
+
 The programs of the EVQuant PlugIn can nouw be found in the Plugin -> EVQuant menu.
 User Guide
