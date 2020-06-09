@@ -1,11 +1,11 @@
 ## EVQuant; high-throughput quantification and characterization of extracellular vesicle (sub)populations
 
-The EVQuant assay is developed to detect individual fluorescently-labeled vesicles including variety of synthetic vesicles like liposomes and polymersomes, but also biological EVs in minimally processed cell conditioned medium and body fluids. EVQuant is able to quantify the total number and/or size and/or biomarker specific subpopulations of extracellular vesicles in several biological fluids such as EV isolations, cell-conditioned media, plasma and serum. The assay is based on detection of fluorescent nanoparticles using a confocal microscope. Images are analyzed by open source software ImageJ using the EVQuant plugin (latest version can be downloaded below). 
+The EVQuant assay is developed to detect individual fluorescently-labeled vesicles including variety of synthetic vesicles like liposomes and polymersomes, but also biological EVs in minimally processed cell conditioned medium and body fluids. EVQuant is able to quantify the total number and/or size and/or biomarker specific subpopulations of extracellular vesicles in several biological fluids such as EV isolations, cell-conditioned media, plasma and serum. The assay is based on detection of fluorescent nanoparticles using a confocal microscope. Images are analyzed using the open source software FIJI using the EVQuant plugin.
 
 
 ## Installation Guide
 
-EVQuant is a plugin for FIJI (Fiji Is Just ImageJ) the latest version of FIJI can be found at https://fiji.sc and runs on all common platforms.
+EVQuant is a plugin for FIJI (Fiji Is Just ImageJ) the latest version of FIJI can be found at https://fiji.sc and runs on all common platforms (windows,macOS,Linux).
 
 To install the EVQuant Plugin download the _EVQuant.jar file from this repository (https://github.com/MEvanRoyen/EVQuant/blob/master/_EVQuant.jar) open Fiji and install the plugin using the menus Plugin -> Install Plugin
 
