@@ -1,6 +1,6 @@
 ## EVQuant; high-throughput quantification and characterization of extracellular vesicle (sub)populations
 
-The EVQuant assay is developed to detect individual fluorescently-labeled vesicles including variety of synthetic vesicles like liposomes and polymersomes, but also biological EVs in minimally processed cell conditioned medium and body fluids. EVQuant is able to quantify the total number and/or size and/or biomarker specific subpopulations of extracellular vesicles in several biological fluids such as EV isolations, cell-conditioned media, plasma and serum. The assay is based on detection of fluorescent nanoparticles using a confocal microscope. Images are analyzed using the open source software FIJI using the EVQuant plugin.
+The EVQuant assay is developed to detect individual fluorescently-labeled vesicles such as biological extracellular vesicles (EVs), but also a variety of synthetic vesicles like liposomes and polymersomes. EVQuant is able to quantify the total number, size and biomarker specific subpopulations of extracellular vesicles in several minimally processed biological fluids (e.g. cell-conditioned media and urine). The assay is based on detection of fluorescent nanoparticles using a confocal microscope. Acquired images are analyzed using the open source software FIJI using the EVQuant plugin.
 
 
 ## Installation Guide
