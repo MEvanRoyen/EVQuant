@@ -5,6 +5,8 @@ The EVQuant assay is developed to detect individual fluorescently-labeled vesicl
 
 ## Installation Guide
 
+Free software: GNU General Public License v3 (GPLv3).
+
 EVQuant is a plugin for FIJI (Fiji Is Just ImageJ) the latest version of FIJI can be found at https://fiji.sc and runs on all common platforms (windows,macOS,Linux).
 
 To install the EVQuant Plugin download the _EVQuant.jar file from this repository (https://github.com/MEvanRoyen/EVQuant/blob/master/_EVQuant.jar) open Fiji and install the plugin using the menus Plugin -> Install Plugin
