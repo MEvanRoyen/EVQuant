@@ -19,6 +19,7 @@ written by J.A. Slotman @ www.ErasmusOIC.nl
 Based on FIJI macro's and excel templates By T.A. Hartjes
 
 Version 1.0.2096 : Initial upload to github
+Version 1.0.20146 : Adapted menu to manuscript
 */
 
 public class EVQ_ implements PlugIn {
