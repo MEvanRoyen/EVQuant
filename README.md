@@ -11,6 +11,6 @@ EVQuant is a plugin for FIJI (Fiji Is Just ImageJ) the latest version of FIJI ca
 
 To install the EVQuant Plugin download the _EVQuant.jar file from this repository (https://github.com/MEvanRoyen/EVQuant/blob/master/_EVQuant.jar) open Fiji and install the plugin using the menus Plugin -> Install Plugin
 
-The programs of the EVQuant PlugIn can nouw be found in the Plugin -> EVQuant menu.
+The programs of the EVQuant PlugIn can now be found in the Plugin -> EVQuant menu.
 
 ## User Guide
